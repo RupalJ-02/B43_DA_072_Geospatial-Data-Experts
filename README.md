@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to predict employee attrition using a Logistic Regression model trained on the IBM HR Analytics Employee Attrition & Performance dataset. The dataset contains various features related to employee demographics, job satisfaction, work-life balance, and more. By analyzing these factors, the model identifies patterns and predicts whether an employee is likely to leave the company.
+This project aims to predict employee attrition using a Logistic Regression model trained on the IBM HR Analytics Employee Attrition & Performance dataset. The dataset contains various features related to employee demographics, job satisfaction, work-life balance, and more. By analyzing these factors, the model identifies patterns and predicts whether an employee is likely to leave the company.The data visualization of the insights gained is presented on a powerbi dashboard.
 
 ## Dataset
 
